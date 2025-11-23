@@ -1,2 +1,2 @@
-# arquivosjedi
-Este projeto reúne informações e links úteis em um só lugar. Ele organiza recursos confiáveis para facilitar seu acesso a ferramentas e guias de estudo. O foco é apoiar a democratização do acesso à educação no Brasil e tornar materiais de aprendizagem mais acessíveis para todos.
+# Arquivos Jedi
+Por enquanto estamos APENAS no Notion, em breve em um site próprio. (Link pro Notion)[https://torpid-snow-58e.notion.site/Arquivos-Jedi-2ac543d67a398061af3ee077d44ecf84]
