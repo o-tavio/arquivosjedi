@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+  a:link, a:visited {
+    color: #00BFFF; /* azul-ciano para link */
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #FFA500; /* laranja ao passar o mouse */
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #32CD32; /* verde quando clicado */
+  }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.artigo {
+  max-width: 700px;   /* largura do texto */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.assinatura{
+  margin-top: 60px;
+  text-align: right;
+  font-family: serif;
+  font-style: italic;
+}
