@@ -24,3 +24,7 @@ html, body {
   min-height: 100vh;
   box-sizing: border-box;
 }
+
+#AJ {
+  background-color: rgba(0, 149, 255, 0.149);
+}
