@@ -1,0 +1,61 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+  a:link, a:visited {
+    color: #00BFFF; /* azul-ciano para link */
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #FFA500; /* laranja ao passar o mouse */
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: #32CD32; /* verde quando clicado */
+  }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+h2 {
+  background-color: #00bfff2a;
+}
+
+button {
+  cursor: pointer;
+}
+
+#aviso {
+  background-color: rgba(74, 74, 4, 0.26);
+}
+
+.tag {
+   font-family: Arial, sans-serif;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    font-weight: 400;
+    background: transparent;
+    color: white; /* texto branco */
+}
+
+/* bordas coloridas */
+.tag.enem {
+    border: 1px solid #ff2e88;
+}
+
+.tag.vestibular {
+    border: 1px solid #c2185b;
+}
+
+.tag.concurso {
+    border: 1px solid #8e244d;
+}
